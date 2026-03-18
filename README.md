@@ -6,7 +6,7 @@ Fork repo to get your own version:
 
 Get pair code and deploy: 
 
-[![Pair and Deploy](https://img.shields.io/badge/Pair_and_ Deploy Bit-4D6BFE?style=for-the-badge&logo=whatsapp)](http://davexultra.zone.id/)
+[![Pair and Deploy](https://img.shields.io/badge/Pair_and_Deploy_Bot-4D6BFE?style=for-the-badge&logo=whatsapp)](http://davexultra.zone.id/)
 
 On free panels paste session ID in .env: `SESSION_ID=your_session_id_here`
 
