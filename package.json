@@ -1,6 +1,6 @@
 {
   "name": "dave-x",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "DAVE-X — Multi-platform WhatsApp Bot built on Baileys",
   "main": "index.js",
   "scripts": {
